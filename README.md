@@ -5,4 +5,5 @@ Duck Hunt is a shooter game in which the objective is to shoot moving targets on
 This an original version of the game made from the beggining with CSFML graphics in c.
 
 compliation via Makefile --> make
+
 see help with --> ./my_hunter -h
